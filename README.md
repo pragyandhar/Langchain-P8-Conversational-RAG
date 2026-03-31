@@ -5,7 +5,7 @@ A intelligent document Q&A system that combines **Retrieval-Augmented Generation
 ---
 ## Output
 ### Output Screenshot
-![output](output.png)
+![output](assets/output.png)
 
 ### Video Output
 https://github.com/user-attachments/assets/344075a9-f3ad-4b25-846b-18e303f761c0
